@@ -1,9 +1,9 @@
 {
-    "name": "magento2translations/language_sr_cs",
+    "name": "piotrekkaminski/language_sr_cs",
     "description": "Serbian (српски) Magento2 Language Pack (sr_CS) - Crowdsourced",
     "homepage": "http://magento2translations.github.io/",
     "license": [
-        "OSL-3.0",
+        "OSL-3.0"
     ],
     "authors": [
         {
